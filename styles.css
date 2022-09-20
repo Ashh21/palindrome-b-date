@@ -1,0 +1,41 @@
+
+
+
+body{
+    font-style: italic;
+    font-size: larger;
+    background-color: #ffd699;
+}
+
+
+h1{
+    text-align: center;
+}
+input{
+    width: 30%;
+    max-width: 250px;
+    height: 4vh;
+    display: block;
+    margin: auto;
+    outline: none;
+    border-radius: 0.4rem;
+    border-color: whitesmoke;
+}
+
+button{
+    display: block;
+    margin: auto;
+    margin-top: 1rem;
+    border-radius: 0.3rem;
+    padding: 0.2rem 0.3rem;
+    border-color: whitesmoke;
+    background-color: #ffd699;
+
+}
+
+#output{
+    text-align: center;
+    margin-top: 2rem;
+    font-style: italic;
+    font-size: large;
+}
